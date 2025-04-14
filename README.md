@@ -16,7 +16,7 @@ This is a simple and aesthetic batch script that helps you quickly connect to a 
 ## 🛠️ How to Use
 
 1. Download or clone this repo.
-2. Run the `connect.bat` file.
+2. Run the `wincon.exe` file.
 3. Enter the IP address of the remote machine.
 4. The script will:
    - Check if the IP is alive
